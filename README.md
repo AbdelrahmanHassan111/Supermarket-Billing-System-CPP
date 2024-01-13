@@ -58,14 +58,5 @@ This C++ project implements a comprehensive Supermarket Billing System, providin
 3. Follow on-screen prompts to navigate through different modules.
 4. Explore the functionality of each module, including stock management, customer interactions, and admin tasks.
 
-### Contributors
-
-- Abdelrahman Mohamed Ali
-- Ahmed Ali
-- Aser Mohamed Ali
-- Mostafa Mahmoud El Sayed
-- Shreef Mohamed Bakr
-- Yahia Mohamed Abouzahra
-- Youssef Mohamed Raafat
 
 Feel free to contribute, report issues, or suggest enhancements to make this Supermarket Billing System more robust and feature-rich!
